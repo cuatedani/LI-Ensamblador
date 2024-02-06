@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/31 03:34:05.000.669,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/31 03:34:35.000.328,C:\Users\Lenovo\Desktop\Marlett\Tec\6to Semestre\Lenguajes I\emu8086\U4\ProyectoHibrido_14_5B\Formularios\Forma_Principal.dfm=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/31 03:34:35.000.328,C:\Users\Lenovo\Desktop\Marlett\Tec\6to Semestre\Lenguajes I\emu8086\U4\ProyectoHibrido_14_5B\Formularios\Forma_Principal.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/31 03:34:49.000.683,C:\Users\Lenovo\Desktop\Marlett\Tec\6to Semestre\Lenguajes I\emu8086\U4\ProyectoHibrido_14_5B\ProyectoHibrido.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
